@@ -1,0 +1,102 @@
+
+/*colores*/
+
+.c_celeste{
+    color: #00b19d;
+}
+.c_black{
+    color: black;
+}
+.c_black_hover:hover{
+    color: black;
+}
+.c_black:hover{
+    color:black;
+}
+.c_white{
+    color: #ffffff;
+}
+.c_verde_claro{
+color: #008c36
+}
+
+
+
+/*BACKGROUNDCOLOR*/
+.bg_black{
+    background-color:black;
+}
+.bg_verde_claro{
+    background-color: #008c36;
+}
+.bg_celeste{
+    background: #02b39e;
+}
+.bg_celeste_hover:hover{
+    background: rgb(106, 247, 176);
+}
+
+.c_verde{
+    background-color: rgb(11, 182, 97);
+}
+
+
+/*tEXTO-ESTILO-FUENTE*/
+.est_txt_1{
+    font-weight: bold; 
+    font-size: 25px; 
+    
+}
+.est_txt_2{
+    font-weight: 700; 
+    font-size: 18px; 
+    
+}
+.est_txt_3{
+    font-weight: 400; 
+    font-size: 13px; 
+    
+}
+.est_txt_4{ 
+    font-size: 9px;
+}
+
+
+/*SOMBRA*/
+.box_shadow_black:hover{
+    box-shadow: 1px 1px 5px black;
+}
+
+
+/*FONDOs-GRADIENTE*/
+.fondo1_gradiente{
+    background: radial-gradient(ellipse, rgb(0, 150, 54) 35%, rgb(17, 56, 52));
+}
+.fondo2_gradiente{
+    background: radial-gradient(ellipse, rgb(255, 255, 255) 35%, rgb(17, 56, 52));
+    
+}
+.fondo3_gradiente{
+    background: radial-gradient(ellipse, rgb(2, 179, 158) 35%, rgb(17, 56, 52));
+}
+.fondo4_gradiente{
+    background: radial-gradient(ellipse, rgb(90, 255, 145) 35%, rgb(17, 56, 52));
+    
+}
+.fondo5_gradiente{
+    background: radial-gradient(ellipse, rgb(255, 255, 255) 35%, rgb(180, 189, 188));
+}
+
+
+/*FORMULARIOS*/
+.resize_none {
+	resize: none;
+}
+
+/*bordes*/
+.borde_derecho{
+    border-right: 1px solid black;
+}
+.fondo_img_1{
+    background-image: url(img/alimentos/1.dowchow_adulto_raza_grand.png);
+}
